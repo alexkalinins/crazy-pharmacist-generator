@@ -1,0 +1,766 @@
+used as a medication to treat a number of health conditions.
+used for a number of fungal infections.
+used to suppress the immune system and decrease inflammation in conditions such as asthma, COPD, and rheumatologic diseases.
+used to help the symptoms of intermittent claudication in peripheral vascular disease.
+used to treat various heart conditions.
+used to treat major depressive disorder, obsessive compulsive disorder, panic disorder, and social phobia.
+used to treat schizophrenia, bipolar disorder, and irritability associated with autism.
+used to treat breast cancer.
+used to treat insomnia.
+used for the treatment of cognitive decline in mild to moderate Alzheimer's disease and various other memory impairments.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to treat Parkinson's disease and restless legs syndrome.
+used to treat diabetes mellitus type 2 and, in some countries, prediabetes.
+used to treat epilepsy and bipolar disorder.
+used to treat breast cancer, gastric cancer and colorectal cancer.
+used for the treatment of migraine headaches.
+used for the treatment of infections caused by Gram-positive bacteria that are resistant to other antibiotics.
+used against protozoan infections.
+used as chemotherapy and to suppress the immune system.
+used to treat depression.
+used along with other medications to treat HIV/AIDS.
+used long-term to treat gout due to high uric acid levels.
+used together with amphotericin B, for serious Candida infections and cryptococcosis.
+used as an immunosuppressant to prevent rejection of organ transplants and in the treatment of renal cell cancer and other tumours.
+used in the treatment of pulmonary artery hypertension.
+used in combination with other medication and therapy to treat Lennox–Gastaut syndrome and various other seizure disorders.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used with a triazole ring.
+used in the treatment of many conditions, including rheumatic problems, a number of skin diseases, severe allergies, asthma, chronic obstructive lung disease, croup, brain swelling, eye pain following eye surgery, and along with antibiotics in tuberculosis.
+used to treat a range of conditions, including anxiety, seizures, alcohol withdrawal syndrome, benzodiazepine withdrawal syndrome, muscle spasms, trouble sleeping, and restless legs syndrome.
+used to treat fluid build-up due to heart failure, liver scarring, or kidney disease.
+used to treat anxiety disorders, trouble sleeping, active seizures including status epilepticus, alcohol withdrawal, and chemotherapy-induced nausea and vomiting.
+used to treat vaginal yeast infections, oral thrush, diaper rash, pityriasis versicolor, and types of ringworm including athlete's foot and jock itch.
+used for cancer and autoimmune diseases.
+used as a sedative to treat severe insomnia.
+used in cutaneous T-cell lymphoma and other peripheral T-cell lymphomas.
+used to treat high blood pressure, congestive heart failure, and left ventricular dysfunction in people who are otherwise stable.
+used primarily in the treatment of epilepsy and neuropathic pain.
+used topically as an anti-inflammatory agent for the treatment of skin disorders such as eczema and seborrhoeic dermatitis.
+used to treat high blood pressure and heart-associated chest pain.
+used to relieve the symptoms of painful inflammatory conditions like arthritis.
+used for the treatment of major depressive disorder, obsessive–compulsive disorder, bulimia nervosa, panic disorder, and premenstrual dysphoric disorder.
+used to prevent and treat seizures, panic disorder, and the movement disorder known as akathisia.
+used to relieve the inflammation, swelling, stiffness, and joint pain associated with osteoarthritis and rheumatoid arthritis.
+used to treat Candida infections of the skin including diaper rash, thrush, esophageal candidiasis, and vaginal yeast infections.
+used to treat pain, menstrual cramps, inflammatory diseases such as rheumatoid arthritis, and fever.
+used to treat ear infections, skin infections, and other bacterial infections.
+used to treat certain bacterial infections such as pneumonia and infections of the ear, lung, skin, throat, and urinary tract.
+used for psoriasis.
+used to treat migraine headaches and cluster headaches.
+used for the treatment of a number of bacterial infections.
+used for the treatment of schizophrenia, bipolar disorder, and major depressive disorder.
+used to treat symptoms of an enlarged prostate and high blood pressure.
+used for stomach and esophageal problems.
+used to treat stomach ulcers, gastroesophageal reflux disease, radiation proctitis, and stomach inflammation and to prevent stress ulcers.
+used to treat a number of bacterial infections.
+used to treat peptic ulcer disease, gastroesophageal reflux disease, and Zollinger–Ellison syndrome.
+used to treat erectile dysfunction, benign prostatic hyperplasia, and pulmonary arterial hypertension.
+used as a monotherapy to treat symptoms in early Parkinson's disease or as an adjunct therapy in more advanced cases.
+used by medication from the ACE inhibitor class.
+used for schizophrenia that does not improve following the use of other antipsychotic medications.
+used to treat genital warts, superficial basal cell carcinoma, and actinic keratosis.
+used to treat pneumonia, otitis media, strep throat, and cellulitis.
+used to treat a number of fungal infections.
+used to treat attention deficit hyperactivity disorder.
+used to treat opioid use disorder, acute pain, and chronic pain.
+used to treat various types of bacterial infections, particularly Gram-negative infections.
+used to treat schizophrenia and bipolar disorder.
+used to treat erectile dysfunction and pulmonary arterial hypertension.
+used as a first-line agent in the management of prolactinomas due to its higher affinity for D<sub>2</sub> receptor sites, less severe side effects, and more convenient dosing schedule than the older bromocriptine, though in pregnancy bromocriptine is often still chosen since there is less data on safety in pregnancy for cabergoline.
+used in the treatment of insomnia.
+used in the treatment of hepatitis B virus infection.
+used to treat major depressive disorder or generalized anxiety disorder.
+used to treat attention deficit hyperactivity disorder and high blood pressure.
+used in the treatment of mild-moderate acne, and is also used off-label to treat keratosis pilaris as well as other skin conditions.
+used in the long-term management of asthma and chronic obstructive pulmonary disease.
+used to treat the pain and inflammation in osteoarthritis, acute pain in adults, rheumatoid arthritis, ankylosing spondylitis, painful menstruation, and juvenile rheumatoid arthritis.
+used to treat type 2 diabetes.
+used to reduce the risk of heart disease and stroke in those at high risk.
+used to treat epilepsy and prevent migraines.
+used to treat an enlarged prostate or hair loss in men.
+used to treat hypercholesterolemia and to prevent cardiovascular disease.
+used in addition to other treatments for breast cancer.
+used in the treatment of hormonally-responsive breast cancer after surgery.
+used to treat epilepsy, neuropathic pain, fibromyalgia, restless leg syndrome, and generalized anxiety disorder.
+used to treat non-small cell lung cancer and pancreatic cancer.
+used for the treatment of various herpesvirus infections, most commonly for herpes zoster.
+used in the treatment of heartburn and peptic ulcers.
+used to treat abnormal blood lipid levels.
+used to treat muscle spasticity such as from a spinal cord injury or multiple sclerosis.
+used in the treatment of infections caused by bacteria and certain parasites.
+used in the treatment of low testosterone levels in men, delayed puberty in boys, at low doses as a component of menopausal hormone therapy for menopausal symptoms like hot flashes, osteoporosis, and low sexual desire in women, and to treat breast cancer in women.
+used either alone or with other antibiotics to treat pelvic inflammatory disease, endocarditis, and bacterial vaginosis.
+used to treat atopic dermatitis, seborrheic dermatitis, contact dermatitis and psoriasis in both adults and children.
+used to treat epilepsy and to delay or prevent the recurrence of depressive episodes in bipolar disorder.
+used for the treatment of a variety of parasitic worm infestations.
+used to relax muscles and relieve pain caused by strains, sprains, and other musculoskeletal conditions.
+used to treat bladder infections, ear infections, and minor skin infections, but is not as effective for kidney infections.
+used to treat abnormal blood lipid levels.
+used to treat seizures in young children, while other medications are generally used in older children and adults.
+used in the treatment of constipation and hepatic encephalopathy.
+used in the treatment of schizophrenia, tics in Tourette syndrome, mania in bipolar disorder, nausea and vomiting, delirium, agitation, acute psychosis, and hallucinations in alcohol withdrawal.
+used to treat absence seizures.
+used in treatment of peptic ulcer disease, gastroesophageal reflux disease, and Zollinger–Ellison syndrome.
+used to treat epilepsy.
+used in therapy for respiratory diseases such as chronic obstructive pulmonary disease and asthma under a variety of brand names.
+used to treat a number of bacterial infections including acute bacterial sinusitis, pneumonia, H.
+used in the treatment of epilepsy.
+used for skin disinfection before surgery and to sterilize surgical instruments.
+used to prevent and treat HIV/AIDS.
+used for treating pain, fever, and inflammation.
+used for treating pain, fever, and inflammation.
+used for the treatment of hypertension and some types of congestive heart failure.
+used for musculoskeletal pain.
+used for short-term musculoskeletal pain.
+used furan rings.
+used to treat gout and Behçet's disease.
+used to treat cancer.
+used in the treatment of melanoma and Hodgkin's lymphoma.
+used for the treatment of a number of bacterial infections.
+used in the treatment of colorectal cancer.
+used for the treatment and prevention of malignant hyperthermia, a rare, life-threatening disorder triggered by general anesthesia.
+used to treat cancer.
+used for the induction of general anaesthesia and sedation for short procedures such as reduction of dislocated joints, tracheal intubation, cardioversion and electroconvulsive therapy.
+used to treat cancer, autoimmune diseases, ectopic pregnancy, and for medical abortions.
+used for the treatments of a number of types of cancer including testicular cancer, lung cancer, lymphoma, leukemia, neuroblastoma, and ovarian cancer.
+used in the treatment of systemic and life-threatening infections caused by Gram-positive organisms.
+used to treat glaucoma, epilepsy, altitude sickness, periodic paralysis, idiopathic intracranial hypertension, and heart failure.
+used to treat a number of cancers.
+used to treat a number of types of cancer.
+used to treat and prevent a number of bacterial infections.
+used to treat ventricular tachycardia.
+used for the prevention and treatment of secondary hyperparathyroidism associated with chronic kidney failure.
+used in the treatment of myelodysplastic syndrome.
+used to treat vitamin B12 deficiency.
+used to treat migraine headaches and cluster headaches.
+used to treat major depressive disorder, obsessive–compulsive disorder, panic disorder, post-traumatic stress disorder, premenstrual dysphoric disorder, and social anxiety disorder.
+used for the treatment of a number of bacterial infections.
+used to treat high blood pressure, heart failure, and after heart attacks.
+used to suppress the immune system and decrease inflammation in conditions such as asthma, COPD, and rheumatologic diseases.
+used to treat hairy cell leukemia, B-cell chronic lymphocytic leukemia and Relapsing-remitting Multiple Sclerosis.
+used to prevent nausea and vomiting caused by cancer chemotherapy, radiation therapy, or surgery.
+used to treat a number of bacterial infections.
+used to treat a number of bacterial infections.
+used for the short-term treatment of sleeping problems.
+used to treat certain bacterial infections such as pneumonia and infections of the ear, lung, skin, throat, and urinary tract.
+used to treat Candida infections of the skin including diaper rash, thrush, esophageal candidiasis, and vaginal yeast infections.
+used to treat a number of fungal infections.
+used topically as an anti-inflammatory agent for the treatment of skin disorders such as eczema and seborrhoeic dermatitis.
+used for the relief of various skin conditions, including rashes.
+used to treat itching, redness and swelling associated with several dermatologic conditions such as atopic dermatitis and allergic contact dermatitis.
+used to treat itching, redness and swelling associated with several dermatologic conditions such as atopic dermatitis and allergic contact dermatitis.
+used to treat atopic dermatitis, seborrheic dermatitis, contact dermatitis and psoriasis in both adults and children.
+used to treat vaginal yeast infection.
+used after allogeneic organ transplant to lower the risk of organ rejection, and also as a topical medication in the treatment of T-cell-mediated diseases such as eczema and psoriasis.
+used to treat genital warts, superficial basal cell carcinoma, and actinic keratosis.
+used to treat high blood pressure and swelling due to fluid build up.
+used to treat peptic ulcer disease, gastroesophageal reflux disease, and Zollinger-Ellison syndrome.
+used to treat congestive heart failure and high blood pressure.
+used to treat swelling and high blood pressure.
+used to treat high blood pressure, heart failure, and after heart attacks.
+used as an adjunct in the management of chronic heart failure and high blood pressure, particularly for patients with resistant hypertension due to elevated aldosterone.
+used for the treatment of anxiety and insomnia and in the control of symptoms of alcohol withdrawal syndrome.
+used to treat trouble sleeping.
+used to treat hyperthyroidism.
+used to manage angina, high blood pressure, Raynaud's phenomenon, and premature labor.
+used in the treatment of hypertension, as well as decompensated heart failure.
+used to treat partial seizures, neuropathic pain, hot flashes, and restless legs syndrome.
+used to treat attention deficit hyperactivity disorder and high blood pressure.
+used to treat major depressive disorder, generalized anxiety disorder, fibromyalgia, and neuropathic pain.
+used to treat major depressive disorder, anxiety disorders, chronic hives, and trouble sleeping.
+used to help promote weight gain in various situations, to help offset protein catabolism caused by long-term corticosteroid therapy, to support recovery from severe burns, to treat bone pain associated with osteoporosis, to aid in the development of girls with Turner syndrome, and for other indications.
+used to help promote weight gain in various situations, to help offset protein catabolism caused by long-term corticosteroid therapy, to support recovery from severe burns, to treat bone pain associated with osteoporosis, to aid in the development of girls with Turner syndrome, and for other indications.
+used to treat low blood sugar due to a number of specific causes.
+used for the treatment of Wilson's disease.
+used to treat muscle spasm and the resulting pain or discomfort.
+used to slow the effects of hereditary tyrosinemia type 1.
+used as a sweetener and medication.
+used either alone or with other antibiotics to treat pelvic inflammatory disease, endocarditis, and bacterial vaginosis.
+used to treat hormone receptor-positive metastatic breast cancer in postmenopausal women with disease progression as well as HR-positive, HER2-negative advanced breast cancer in combination with palbociclib in women with disease progression after endocrine therapy.
+used to treat infections caused by Gram-positive bacteria, in particular, species of staphylococci that are resistant to other penicillins.
+used to treat high blood pressure, heart pain, and atrial fibrillation.
+used in the treatment of hypertension.
+used to decrease high blood uric acid levels.
+used as a diuretic and as an antihypertensive.
+used in treating gout and hyperuricemia.
+used in the management of type 2 diabetes if diet alone is not effective.
+used to treat fluid build-up due to heart failure, liver scarring, or kidney disease.
+used for high blood pressure.
+used with mebaral) is another name for this drug.
+used in therapy for respiratory diseases such as chronic obstructive pulmonary disease and asthma under a variety of brand names.
+used to treat muscle spasticity due to spinal cord injury or multiple sclerosis.
+used to treat high blood pressure, attention deficit hyperactivity disorder, drug withdrawal, menopausal flushing, diarrhea, spasticity and certain pain conditions.
+used in rheumatoid arthritis, granulomatosis with polyangiitis, Crohn's disease, ulcerative colitis, and systemic lupus erythematosus, and in kidney transplants to prevent rejection.
+used to treat type 2 diabetes.
+used to treat a number of fungal infections.
+used for the treatment of chronic angina pectoris and hypertension.
+used to treat and prevent HIV/AIDS.
+used as an immunosuppressant to prevent rejection of organ transplants and in the treatment of renal cell cancer and other tumours.
+used to treat depression.
+used to treat and prevent HIV/AIDS, specifically HIV-1.
+used to treat amyotrophic lateral sclerosis.
+used to treat cancer.
+used to treat a number of fungal infections.
+used to prevent formation of blood clots.
+used to treat a number of bacterial infections.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to treat secondary hyperparathyroidism, parathyroid carcinoma, and primary hyperparathyroidism.
+used to treat major depressive disorder, obsessive-compulsive disorder, panic disorder, social anxiety disorder, posttraumatic stress disorder, generalized anxiety disorder and premenstrual dysphoric disorder.
+used primarily in the treatment of schizophrenia.
+used topically (in a 0.
+used for the treatment of acne and acute promyelocytic leukemia.
+used for the treatment of a number of bacterial infections.
+used for the treatment of mild to moderate Alzheimer's disease and Parkinson's.
+used in combination with other medications for the treatment of Parkinson's disease.
+used ever since as an active ingredient in the manufacture of explosives, mostly dynamite, and as such it is employed in the construction, demolition, and mining industries.
+used as a pain medication and together with other medications for anesthesia.
+used to treat ventricular tachycardia.
+used to dilate the pupil and help with examination of the eye.
+used to treat trouble sleeping.
+used to treat a number of types of cancer.
+used to treat a number of types of cancer.
+used to treat a number of types of cancer.
+used in the form of its hydrochloride salt to treat ovarian cancer, lung cancer and other cancer types.
+used to treat a number of bacterial infections including acute bacterial sinusitis, pneumonia, H.
+used to treat a variety of bacterial infections.
+used to treat epilepsy.
+used as a medication.
+used in the treatment of cardiogenic shock and severe heart failure.
+used to treat paracetamol overdose, and to loosen thick mucus in individuals with chronic bronchopulmonary disorders like pneumonia and bronchitis.
+used in the form of infusions or injections.
+used to decrease feeling in a specific area.
+used to treat infections caused by Gram-positive bacteria, in particular, species of staphylococci that are resistant to other penicillins.
+used to prevent and treat a number of bacterial infections, such as respiratory tract infections, urinary tract infections, meningitis, salmonellosis, and endocarditis.
+used as a conductor of heat and electricity, as a building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry, cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples for temperature measurement.
+used to treat a number of bacterial infections.
+used to treat fluid build-up due to heart failure, liver scarring, or kidney disease.
+used to prevent formation of blood clots.
+used to treat a number of types of dermatophytoses.
+used in the treatment of mild-moderate acne, and is also used off-label to treat keratosis pilaris as well as other skin conditions.
+used to treat scabies and lice.
+used to treat methanol and ethylene glycol poisoning.
+used as an antiemetic and as an antipsychotic.
+used for the treatment of tuberculosis.
+used to treat partial and generalized seizures, as well as essential tremors.
+used in the treatment of endometriosis, fibrocystic breast disease, hereditary angioedema and other conditions.
+used to prevent and treat HIV/AIDS.
+used to treat various bacterial infections.
+used to treat congestive heart failure and high blood pressure.
+used for the treatment of a number of bacterial infections.
+used to suppress the immune system and decrease inflammation in conditions such as asthma, COPD, and rheumatologic diseases.
+used to treat certain types of allergies, inflammatory conditions, autoimmune disorders, and cancers.
+used in addition to diet and exercise for blood sugar control in type 2 diabetes mellitus.
+used preoperatively in acute angle-closure glaucoma where lowering the IOP is desired before surgery.
+used to treat paracetamol overdose, and to loosen thick mucus in individuals with chronic bronchopulmonary disorders like pneumonia and bronchitis.
+used for the treatment of acne and acute promyelocytic leukemia.
+used for the treatment of a number of bacterial infections.
+used in the long-term management of asthma and chronic obstructive pulmonary disease.
+used with a triazole ring.
+used at low doses for chronic illnesses or used concomitantly at high doses during acute flares.
+used to treat rheumatoid arthritis, ulcerative colitis, and Crohn's disease.
+used in the treatment of pulmonary artery hypertension.
+used to treat various bacterial infections.
+used as a dietary supplement.
+used in the treatment of atopic dermatitis.
+used in the treatment of peptic ulcer disease and gastroesophageal reflux disease.
+used to treat high blood cholesterol and certain other lipid abnormalities.
+used to treat epilepsy.
+used to treat epilepsy.
+used to treat many types of parasite infestations.
+used for the treatment of Wilson's disease.
+used to treat urinary incontinence.
+used for the treatment of high blood pressure and male-pattern hair loss.
+used to treat high blood pressure.
+used at low doses for chronic illnesses or used concomitantly at high doses during acute flares.
+used to treat cytomegalovirus infection in those with HIV/AIDS or following organ transplant.
+used in the treatment of gastroesophageal reflux disease, peptic ulcer disease, and Zollinger–Ellison syndrome.
+used along with exercise, diet, and weight loss to decrease elevated lipid levels.
+used to treat pain and inflammation in rheumatic diseases and osteoarthritis.
+used to treat moderate-to-severe Alzheimer's disease.
+used to try to help with the symptoms of cough and hiccups.
+used to treat overactive bladder.
+used to treat overactive bladder.
+used in the treatment of schizophrenia and bipolar disorder.
+used to treat major depressive disorder and to support smoking cessation.
+used to treat the symptoms of epilepsy and Parkinson's disease.
+used to treat epilepsy and to delay or prevent the recurrence of depressive episodes in bipolar disorder.
+used to treat abnormal blood lipid levels.
+used to treat the pain and inflammation in osteoarthritis, acute pain in adults, rheumatoid arthritis, ankylosing spondylitis, painful menstruation, and juvenile rheumatoid arthritis.
+used as a drug to treat muscle pain in people with peripheral artery disease.
+used to treat diabetes mellitus type 2.
+used to treat abnormal blood lipid levels.
+used to treat swelling and high blood pressure.
+used for anesthesia, procedural sedation, trouble sleeping, and severe agitation.
+used in the treatment of Chagas disease.
+used for the treatment of  pulmonary arterial hypertension.
+used to treat a number of types of cancer.
+used to treat colorectal cancer.
+used to treat a number of forms of cancer.
+used to treat a number of forms of cancer.
+used to treat a number of cancers.
+used to treat nausea, schizophrenia, migraines, and anxiety.
+used preoperatively in acute angle-closure glaucoma where lowering the IOP is desired before surgery.
+used to prevent chemotherapy-induced nausea and vomiting and to prevent postoperative nausea and vomiting.
+used to treat attention deficit hyperactivity disorder and narcolepsy.
+used to treat some brain tumors such as glioblastoma multiforme or anaplastic astrocytoma.
+used to treat a variety of bacterial infections.
+used in the treatment of systemic and life-threatening infections caused by Gram-positive organisms.
+used in the maintenance treatment of asthma.
+used to treat a number of fungal infections.
+used to treat Parkinson's disease and restless legs syndrome.
+used as an inhalational anaesthetic for induction and maintenance of general anesthesia.
+used for maintenance of general anesthesia.
+used to treat high pressure inside the eye including glaucoma.
+used in the treatment of itchiness, anxiety, and nausea, including that due to motion sickness.
+used primarily in the treatment of epilepsy and neuropathic pain.
+used to treat major depressive disorder, obsessive-compulsive disorder, panic disorder, social anxiety disorder, posttraumatic stress disorder, generalized anxiety disorder and premenstrual dysphoric disorder.
+used to treat prostate cancer.
+used to treat muscle spasticity due to spinal cord injury or multiple sclerosis.
+used to try to help with the symptoms of cough and hiccups.
+used to prevent and treat HIV/AIDS.
+used for the chronic treatment of asthma.
+used in the treatment of schizophrenia and bipolar disorder.
+used to treat glaucoma, epilepsy, altitude sickness, periodic paralysis, idiopathic intracranial hypertension, and heart failure.
+used to treat tuberculosis.
+used together with amphotericin B, for serious Candida infections and cryptococcosis.
+used at low doses for chronic illnesses or used concomitantly at high doses during acute flares.
+used to treat fluid build-up due to heart failure, liver scarring, or kidney disease.
+used to treat epilepsy, neuropathic pain, fibromyalgia, restless leg syndrome, and generalized anxiety disorder.
+used in combination with rifampicin and clofazimine for the treatment of leprosy.
+used mainly for the treatment of high blood pressure and congestive heart failure.
+used for schizophrenia that does not improve following the use of other antipsychotic medications.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to treat colorectal cancer.
+used in active moderate-to-severe rheumatoid arthritis and psoriatic arthritis.
+used as an inhalational anaesthetic for induction and maintenance of general anesthesia.
+used to treat a number of types of cancer.
+used as chemotherapy and to suppress the immune system.
+used in those taking cyclophosphamide or ifosfamide to decrease the risk of bleeding from the bladder.
+used to treat and prevent abnormal heart rhythms.
+used to treat a number of fungal infections.
+used to treat type I Gaucher disease.
+used to treat epilepsy.
+used to treat skin conditions such as acne, inflammation, and edema.
+used for treating pain, fever, and inflammation.
+used to treat diabetes mellitus type 2 and, in some countries, prediabetes.
+used to start or maintain anesthesia, however other medications are often used to start anesthesia rather than isoflurane, due to airway irritation with isoflurane.
+used to prevent and treat stomach ulcers, start labor, cause an abortion, and treat postpartum bleeding due to poor contraction of the uterus.
+used together with diet and exercise to treat obesity.
+used to treat epilepsy and to delay or prevent the recurrence of depressive episodes in bipolar disorder.
+used to treat schizophrenia and bipolar disorder.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used for the treatment of essential thrombocytosis, or overproduction of blood platelets.
+used to treat erectile dysfunction, benign prostatic hyperplasia, and pulmonary arterial hypertension.
+used in the treatment of constipation and hepatic encephalopathy.
+used to prevent chemotherapy-induced nausea and vomiting and to prevent postoperative nausea and vomiting.
+used to treat muscle spasm and the resulting pain or discomfort.
+used to treat tuberculosis.
+used to treat tuberculosis.
+used in combination with rifampicin and clofazimine for the treatment of leprosy.
+used to treat certain types of nerve agent and pesticide poisonings as well as some types of slow heart rate, and to decrease saliva production during surgery.
+used to treat increased pressure inside the eye.
+used to treat cytomegalovirus infections.
+used to treat and prevent blood clots and to prevent stroke in people with nonvalvular atrial fibrillation.
+used in many commercial cleaning products.
+used to treat a number of bacterial infections.
+used to treat peptic ulcer disease, gastroesophageal reflux disease, and Zollinger–Ellison syndrome.
+used to treat fluid build-up due to heart failure, liver scarring, or kidney disease.
+used to treat major depressive disorder, generalized anxiety disorder, panic disorder, and social phobia.
+used to treat breast cancer, gastric cancer and colorectal cancer.
+used to treat major depressive disorder, generalized anxiety disorder, panic disorder, and social phobia.
+used along with exercise, diet, and weight loss to decrease elevated lipid levels.
+used in the treatment of hepatitis B virus infection.
+used to treat colorectal cancer.
+used to treat the pain and inflammation in osteoarthritis, acute pain in adults, rheumatoid arthritis, ankylosing spondylitis, painful menstruation, and juvenile rheumatoid arthritis.
+used to treat attention deficit hyperactivity disorder.
+used to treat a number of bacterial infections.
+used to treat pityriasis versicolor, fungal nail infections, and ringworm including jock itch and athlete's foot.
+used in the prevention and treatment of chemotherapy-induced nausea and vomiting.
+used to treat ventricular tachycardia.
+used along with exercise, diet, and weight loss to decrease elevated lipid levels.
+used to treat type 2 diabetes.
+used drugs such as propofol and fentanyl) and can provide cooperative or semi-rousable sedation.
+used to treat a number of types of cancer.
+used in the treatment of schizophrenia and bipolar disorder.
+used to prevent cardiovascular disease in those at high risk and treat abnormal lipids.
+used to prevent nausea and vomiting caused by cancer chemotherapy, radiation therapy, or surgery.
+used to treat high blood pressure, heart failure, and after heart attacks.
+used drugs such as propofol and fentanyl) and can provide cooperative or semi-rousable sedation.
+used to treat high blood cholesterol and certain other lipid abnormalities.
+used in the treatment of systemic and life-threatening infections caused by Gram-positive organisms.
+used to treat secondary hyperparathyroidism, parathyroid carcinoma, and primary hyperparathyroidism.
+used to numb the eyes, nose, or throat.
+used as an eye drop during pediatric eye examinations to dilate the eye and prevent the eye from focusing/accommodating.
+used to decrease the symptoms of allergic conjunctivitis and allergic rhinitis.
+used for the treatment of a number of bacterial infections, including bone or joint infections, pelvic inflammatory disease, strep throat, pneumonia, middle ear infections, and endocarditis.
+used to treat increased pressure inside the eye.
+used in the treatment of hypertension and glaucoma.
+used to treat open-angle glaucoma, ocular hypertension, and rosacea.
+used for anaesthesia in surgery.
+used to treat pain and inflammatory diseases such as gout.
+used in eye drops to treat allergic conjunctivitis.
+used to treat trouble sleeping.
+used to treat high blood pressure and swelling due to fluid build up.
+used for the treatment of migraine headaches.
+used in preventing vasospasm secondary to subarachnoid hemorrhage.
+used to prevent nausea and vomiting caused by cancer chemotherapy, radiation therapy, or surgery.
+used mainly for chemotherapy.
+used to treat major depressive disorder, generalized anxiety disorder, fibromyalgia, and neuropathic pain.
+used for the treatment of a number of bacterial infections.
+used to treat atopic dermatitis, seborrheic dermatitis, contact dermatitis and psoriasis in both adults and children.
+used for the treatment of a number of bacterial infections.
+used with mebaral) is another name for this drug.
+used to treat the symptoms of an enlarged prostate.
+used to treat partial seizures, neuropathic pain, hot flashes, and restless legs syndrome.
+used for the treatment of a number of bacterial infections.
+used for the treatment of a number of bacterial infections.
+used to prevent and treat a number of bacterial infections, such as respiratory tract infections, urinary tract infections, meningitis, salmonellosis, and endocarditis.
+used to treat a number of bacterial infections.
+used for the treatment of infections caused by Gram-positive bacteria that are resistant to other antibiotics.
+used to treat cytomegalovirus infections.
+used in those taking cyclophosphamide or ifosfamide to decrease the risk of bleeding from the bladder.
+used to treat a number of types of cancer.
+used to treat cancer.
+used to treat a number of types of cancer.
+used in the form of its hydrochloride salt to treat ovarian cancer, lung cancer and other cancer types.
+used as a medication.
+used to treat hormone receptor-positive metastatic breast cancer in postmenopausal women with disease progression as well as HR-positive, HER2-negative advanced breast cancer in combination with palbociclib in women with disease progression after endocrine therapy.
+used in the treatment of schizophrenia, tics in Tourette syndrome, mania in bipolar disorder, nausea and vomiting, delirium, agitation, acute psychosis, and hallucinations in alcohol withdrawal.
+used to treat schizophrenia, bipolar disorder, and irritability associated with autism.
+used in the acute treatment of migraine attacks with or without aura and cluster headaches.
+used to treat heart related chest pain.
+used as an athletic performance and cognitive enhancer, and recreationally as an aphrodisiac and euphoriant.
+used to treat glaucoma, epilepsy, altitude sickness, periodic paralysis, idiopathic intracranial hypertension, and heart failure.
+used to treat epilepsy and prevent migraines.
+used to treat pain and inflammation in rheumatic diseases and osteoarthritis.
+used to treat high blood pressure and swelling due to fluid build up.
+used to treat insomnia.
+used to treat erectile dysfunction, benign prostatic hyperplasia, and pulmonary arterial hypertension.
+used to prevent and treat HIV/AIDS.
+used in the treatment of gastroesophageal reflux disease, peptic ulcer disease, and Zollinger–Ellison syndrome.
+used to treat Alzheimer's disease.
+used to prevent and treat HIV/AIDS.
+used to treat Parkinson's disease and restless legs syndrome.
+used to treat high blood pressure and coronary artery disease.
+used to treat major depressive disorder or generalized anxiety disorder.
+used for the treatment of migraine headaches.
+used for the treatment of schizophrenia, bipolar disorder, and major depressive disorder.
+used for treating erectile dysfunction that is sold under the trade names Levitra, Staxyn, and Vivanza.
+used to treat and prevent HIV/AIDS, specifically HIV-1.
+used as a pain medication and together with other medications for anesthesia.
+used to treat the symptoms of epilepsy and Parkinson's disease.
+used to treat a number of fungal infections.
+used to treat high blood pressure, chest pain due to poor blood flow to the heart, and a number of conditions involving an abnormally fast heart rate.
+used to treat a number of bacterial infections.
+used to treat a number of types of cancer.
+used to prevent and treat stomach ulcers, start labor, cause an abortion, and treat postpartum bleeding due to poor contraction of the uterus.
+used mainly in the treatment of bladder infections.
+used in a number of birth control methods.
+used for the prevention and treatment of secondary hyperparathyroidism associated with chronic kidney failure.
+used in the form of infusions or injections.
+used in the treatment of insomnia.
+used for psoriasis.
+used to treat diabetes mellitus type 2 and, in some countries, prediabetes.
+used to treat allergies.
+used as a dietary supplement.
+used in active moderate-to-severe rheumatoid arthritis and psoriatic arthritis.
+used to treat a number of bacterial infections such as pneumonia.
+used for the treatment of high blood pressure and male-pattern hair loss.
+used to treat symptoms of an enlarged prostate and high blood pressure.
+used to treat RSV infection, hepatitis C and some viral hemorrhagic fevers.
+used for musculoskeletal pain.
+used together with amphotericin B, for serious Candida infections and cryptococcosis.
+used to treat allergies.
+used to relieve the symptoms of painful inflammatory conditions like arthritis.
+used as a monotherapy to treat symptoms in early Parkinson's disease or as an adjunct therapy in more advanced cases.
+used preoperatively in acute angle-closure glaucoma where lowering the IOP is desired before surgery.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to treat pain and inflammation in rheumatic diseases and osteoarthritis.
+used to treat schizophrenia and acute mania associated with bipolar disorder.
+used to treat high blood pressure, it may also be used to treat other conditions.
+used to treat abnormal blood lipid levels.
+used at low doses for chronic illnesses or used concomitantly at high doses during acute flares.
+used to treat absence seizures.
+used to treat opioid use disorder, acute pain, and chronic pain.
+used for the treatment of major depressive disorder, obsessive–compulsive disorder, bulimia nervosa, panic disorder, and premenstrual dysphoric disorder.
+used in addition to other treatments for breast cancer.
+used to treat insomnia.
+used to treat allergies, trouble sleeping, and nausea.
+used to treat pain, menstrual cramps, inflammatory diseases such as rheumatoid arthritis, and fever.
+used to treat the symptoms of epilepsy and Parkinson's disease.
+used to try to help with the symptoms of cough and hiccups.
+used local anesthetic in a number of European countries and is available in many countries.
+used in many surgical procedures to control bleeding.
+used to treat major depressive disorder, generalized anxiety disorder, fibromyalgia, and neuropathic pain.
+used as a drug to treat muscle pain in people with peripheral artery disease.
+used to treat major depressive disorder, obsessive–compulsive disorder, panic disorder, post-traumatic stress disorder, premenstrual dysphoric disorder, and social anxiety disorder.
+used to treat a number of fungal infections.
+used in combination with misoprostol to bring about an abortion during pregnancy.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to reduce the risk of heart disease and stroke in those at high risk.
+used to treat epilepsy, neuropathic pain, fibromyalgia, restless leg syndrome, and generalized anxiety disorder.
+used to treat cancer.
+used to treat gout and Behçet's disease.
+used to treat myasthenia gravis, Ogilvie syndrome, and urinary retention without the presence of a blockage.
+used with leucovorin to treat the parasite diseases toxoplasmosis and cystoisosporiasis.
+used in the treatment of myelodysplastic syndrome.
+used to treat multiple myeloma and mantle cell lymphoma.
+used in some forms of traditional medicine.
+used to describe these conditions.
+used in the treatment of hypertension, as well as decompensated heart failure.
+used to treat type I Gaucher disease.
+used in the treatment of childhood acute lymphocytic leukemia, Hodgkin's lymphoma, certain brain tumours, and other types of cancer.
+used in the form of infusions or injections.
+used for the relief of various skin conditions, including rashes.
+used to treat psoriasis, eczema, vitiligo, and some cutaneous lymphomas in conjunction with exposing the skin to UVA light from lamps or sunlight.
+used for the treatment of tuberculosis.
+used to treat absence seizures.
+used as an anxiolytic drug.
+used to treat schizophrenia and acute mania associated with bipolar disorder.
+used to treat a number of fungal infections.
+used to treat urinary incontinence.
+used to treat dyskinesia associated with parkinsonism and influenza caused by type A influenzavirus, though its use for the latter is no longer recommended due to widespread drug resistance.
+used to prevent and treat seizures, panic disorder, and the movement disorder known as akathisia.
+used to treat and prevent influenza A and influenza B.
+used to treat congestive heart failure and high blood pressure.
+used to treat dyskinesia associated with parkinsonism and influenza caused by type A influenzavirus, though its use for the latter is no longer recommended due to widespread drug resistance.
+used to treat prostate cancer.
+used to treat pellagra, a disease caused by niacin deficiency.
+used to treat multiple myeloma, ovarian cancer, melanoma, and AL amyloidosis.
+used ever since as an active ingredient in the manufacture of explosives, mostly dynamite, and as such it is employed in the construction, demolition, and mining industries.
+used in the treatment of some forms of osteoporosis.
+used to treat a number of bacterial infections including acute bacterial sinusitis, pneumonia, H.
+used to prevent formation of blood clots.
+used to treat heart related chest pain.
+used long-term to treat gout due to high uric acid levels.
+used for the treatment of multi-drug-resistant tuberculosis affecting the lungs.
+used to treat a number of types of parasitic worm infections.
+used to treat Parkinson's disease.
+used to treat epilepsy.
+used for essential hypertension.
+used to treat various heart conditions.
+used for the maintenance treatment of asthma.
+used primarily to treat prostate cancer.
+used to treat muscle spasticity due to spinal cord injury or multiple sclerosis.
+used to treat cancer, autoimmune diseases, ectopic pregnancy, and for medical abortions.
+used to treat certain types of allergies, inflammatory conditions, autoimmune disorders, and cancers.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to treat peptic ulcer disease, gastroesophageal reflux disease, and Zollinger–Ellison syndrome.
+used to treat pain, menstrual cramps, inflammatory diseases such as rheumatoid arthritis, and fever.
+used for a number of fungal infections.
+used to treat allergies.
+used in the treatment of infections caused by bacteria and certain parasites.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used either alone or with other antibiotics to treat pelvic inflammatory disease, endocarditis, and bacterial vaginosis.
+used to help the symptoms of intermittent claudication in peripheral vascular disease.
+used in the treatment of hormonally-responsive breast cancer after surgery.
+used to treat pellagra, a disease caused by niacin deficiency.
+used to treat schizophrenia, bipolar disorder, and irritability associated with autism.
+used  to coat coronary stents, prevent organ transplant rejection and treat a rare lung disease called lymphangioleiomyomatosis.
+used primarily on the eye.
+used to treat nasal symptoms.
+used to treat a number of bacterial infections.
+used to treat high blood pressure, heart pain, and atrial fibrillation.
+used to treat Parkinson's disease.
+used to relax muscles and relieve pain caused by strains, sprains, and other musculoskeletal conditions.
+used to treat cancer.
+used in the treatment of polycystic ovary syndrome.
+used in the maintenance treatment of asthma.
+used in the treatment of gastroesophageal reflux disease, peptic ulcer disease, and Zollinger–Ellison syndrome.
+used as a dietary supplement.
+used as an appetite suppressant.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used for anesthesia, procedural sedation, trouble sleeping, and severe agitation.
+used ever since as an active ingredient in the manufacture of explosives, mostly dynamite, and as such it is employed in the construction, demolition, and mining industries.
+used for stomach and esophageal problems.
+used as a medication.
+used to treat peptic ulcer disease, gastroesophageal reflux disease, and Zollinger-Ellison syndrome.
+used to treat vitamin B12 deficiency.
+used for short-term musculoskeletal pain.
+used to treat swelling and high blood pressure.
+used as a sweetener and medication.
+used for the induction of general anaesthesia and sedation for short procedures such as reduction of dislocated joints, tracheal intubation, cardioversion and electroconvulsive therapy.
+used as a medication to treat a number of health conditions.
+used as an anxiolytic drug.
+used to treat iron overload in thalassaemia major.
+used to treat cytomegalovirus infections.
+used to treat epilepsy and bipolar disorder.
+used in addition to diet and exercise for blood sugar control in type 2 diabetes mellitus.
+used as an adjunct in the management of chronic heart failure and high blood pressure, particularly for patients with resistant hypertension due to elevated aldosterone.
+used to treat several types of bacterial infections.
+used to prevent and treat a number of bacterial infections, such as respiratory tract infections, urinary tract infections, meningitis, salmonellosis, and endocarditis.
+used for the treatment of a number of bacterial infections.
+used in the treatment of infections caused by bacteria and certain parasites.
+used for the treatment of a number of bacterial infections, including bone or joint infections, pelvic inflammatory disease, strep throat, pneumonia, middle ear infections, and endocarditis.
+used to treat muscle spasm and the resulting pain or discomfort.
+used for heart diseases.
+used to treat muscle spasticity such as from a spinal cord injury or multiple sclerosis.
+used to treat erectile dysfunction and pulmonary arterial hypertension.
+used in combination with thiazide diuretics for the treatment of high blood pressure or swelling.
+used with a triazole ring.
+used to reverse mydriasis after eye examination.
+used to prevent and treat HIV/AIDS.
+used in the treatment of attention deficit hyperactivity disorder and narcolepsy.
+used to treat nausea, schizophrenia, migraines, and anxiety.
+used medically.
+used to treat major depressive disorder, obsessive compulsive disorder, panic disorder, and social phobia.
+used to treat diabetes mellitus type 2.
+used mainly for chemotherapy.
+used for the treatment of stomach ulcers, short-term treatment of erosive esophagitis due to gastroesophageal reflux disease, maintenance of healing of erosive esophagitis, and pathological hypersecretory conditions including Zollinger–Ellison syndrome.
+used to treat breast cancer, gastric cancer and colorectal cancer.
+used to treat a number of forms of cancer.
+used to treat nasal symptoms.
+used for muscle spasms from musculoskeletal conditions of sudden onset.
+used in diabetes mellitus type 2 for establishing greater glycemic control by preventing the digestion of carbohydrates into monosaccharides which can be absorbed by the body.
+used for the treatment of hypertension and some types of congestive heart failure.
+used in the production of hydrogen fluoride for fluorocarbons.
+used to treat pellagra, a disease caused by niacin deficiency.
+used to treat urinary incontinence.
+used to manage angina, high blood pressure, Raynaud's phenomenon, and premature labor.
+used to treat tuberculosis and prevent and treat Mycobacterium avium complex.
+used to treat schizophrenia and bipolar disorder.
+used in the form of eletriptan hydrobromide, is a second generation triptan medication intended for treatment of migraine headaches.
+used to treat breast cancer.
+used to relieve the inflammation, swelling, stiffness, and joint pain associated with osteoarthritis and rheumatoid arthritis.
+used to treat some brain tumors such as glioblastoma multiforme or anaplastic astrocytoma.
+used in rheumatoid arthritis, granulomatosis with polyangiitis, Crohn's disease, ulcerative colitis, and systemic lupus erythematosus, and in kidney transplants to prevent rejection.
+used to suppress the immune system and decrease inflammation in conditions such as asthma, COPD, and rheumatologic diseases.
+used for the treatment of various herpesvirus infections, most commonly for herpes zoster.
+used both as an agricultural insecticide and as a pharmaceutical treatment for lice and scabies.
+used to treat high pressure inside the eye including glaucoma.
+used to treat amyotrophic lateral sclerosis.
+used to prevent cardiovascular disease in those at high risk and treat abnormal lipids.
+used to treat hyponatremia associated with congestive heart failure, cirrhosis, and the syndrome of inappropriate antidiuretic hormone.
+used to treat moderate-to-severe Alzheimer's disease.
+used in the treatment of inflammatory eye diseases.
+used in the treatment of peptic ulcer disease and gastroesophageal reflux disease.
+used in glaucoma therapy.
+used by hypersensitivity of the immune system to typically harmless substances in the environment.
+used to treat acute myeloid leukemia, acute lymphocytic leukemia, chronic myelogenous leukemia, and non-Hodgkin's lymphoma.
+used to treat acute myeloid leukemia, acute lymphocytic leukemia, chronic myelogenous leukemia, and non-Hodgkin's lymphoma.
+used to treat a range of conditions, including anxiety, seizures, alcohol withdrawal syndrome, benzodiazepine withdrawal syndrome, muscle spasms, trouble sleeping, and restless legs syndrome.
+used to treat seizures in young children, while other medications are generally used in older children and adults.
+used in the treatment of schizophrenia, tics in Tourette syndrome, mania in bipolar disorder, nausea and vomiting, delirium, agitation, acute psychosis, and hallucinations in alcohol withdrawal.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to treat epilepsy and prevent migraines.
+used to relieve the inflammation, swelling, stiffness, and joint pain associated with osteoarthritis and rheumatoid arthritis.
+used to relieve the symptoms of painful inflammatory conditions like arthritis.
+used to manage angina, high blood pressure, Raynaud's phenomenon, and premature labor.
+used to treat high blood pressure and heart-associated chest pain.
+used to treat type 2 diabetes.
+used to treat certain types of allergies, inflammatory conditions, autoimmune disorders, and cancers.
+used to treat motion sickness and dizziness.
+used for muscle spasms from musculoskeletal conditions of sudden onset.
+used to treat major depressive disorder, generalized anxiety disorder, panic disorder, and social phobia.
+used for a number of fungal infections.
+used to decrease high blood uric acid levels.
+used to treat high blood pressure, congestive heart failure, and left ventricular dysfunction in people who are otherwise stable.
+used to treat a number of bacterial infections.
+used to treat anxiety, insomnia and symptoms of withdrawal from alcohol and other drugs.
+used to treat various types of bacterial infections, particularly Gram-negative infections.
+used to treat anxiety disorders, trouble sleeping, active seizures including status epilepticus, alcohol withdrawal, and chemotherapy-induced nausea and vomiting.
+used to treat various bacterial infections.
+used to treat major depressive disorder or generalized anxiety disorder.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used to help with the pain, irritation, or urgency caused by urinary tract infections, surgery, or injury to the urinary tract.
+used to treat Parkinson's disease and restless legs syndrome.
+used in the treatment of many conditions, including rheumatic problems, a number of skin diseases, severe allergies, asthma, chronic obstructive lung disease, croup, brain swelling, eye pain following eye surgery, and along with antibiotics in tuberculosis.
+used to treat pneumonia, otitis media, strep throat, and cellulitis.
+used to prevent nausea and vomiting.
+used to treat high pressure inside the eye including glaucoma.
+used in the treatment of mild-moderate acne, and is also used off-label to treat keratosis pilaris as well as other skin conditions.
+used in the treatment of prostate cancer.
+used to treat partial seizures, neuropathic pain, hot flashes, and restless legs syndrome.
+used in the treatment of insomnia.
+used as a decongestant.
+used for the treatment of a number of bacterial infections.
+used to treat high blood pressure, heart failure, and diabetic kidney disease.
+used in the treatment of dry mouth and especially associated with Sjögren's syndrome.
+used in the treatment of leukemia and lymphoma.
+used as an antiemetic to treat nausea and vomiting following chemotherapy and radiotherapy.
+used to treat motion sickness and nausea.
+used primarily to treat infections caused by gram-negative bacteria such as Pseudomonas aeruginosa.
+used in the acute treatment of convulsive status epilepticus.
+used in iron overdose, hemochromatosis either due to multiple blood transfusions or an underlying genetic condition, and aluminium toxicity in people on dialysis.
+used to treat high blood pressure, a number of types of irregular heart rate, thyrotoxicosis, capillary hemangiomas, performance anxiety, and essential tremors.
+used to treat allergies.
+used in the prevention and treatment of chemotherapy-induced nausea and vomiting.
+used to treat and prevent invasive fungal infections including candidemia, abscesses and esophageal candidiasis.
+used to treat high blood pressure.
+used to treat ear infections, skin infections, and other bacterial infections.
+used in treatment of peptic ulcer disease, gastroesophageal reflux disease, and Zollinger–Ellison syndrome.
+used to prevent and treat HIV/AIDS.
+used for musculoskeletal pain.
+used in medicine for the treatment of various helminthic,  protozoal, and viral infections.
+used to treat hemorrhoids.
+used  to coat coronary stents, prevent organ transplant rejection and treat a rare lung disease called lymphangioleiomyomatosis.
+used for the induction of general anaesthesia and sedation for short procedures such as reduction of dislocated joints, tracheal intubation, cardioversion and electroconvulsive therapy.
+used to treat HIV/AIDS.
+used for essential hypertension.
+used to treat a number of types of cancer.
+used in combination with thiazide diuretics for the treatment of high blood pressure or swelling.
+used to treat major depressive disorder and to support smoking cessation.
+used as a treatment for cytomegalovirus retinitis in people with AIDS.
+used to treat methanol and ethylene glycol poisoning.
+used to treat acute myeloid leukemia, acute lymphocytic leukemia, chronic myelogenous leukemia, and non-Hodgkin's lymphoma.
+used to treat muscle spasticity such as from a spinal cord injury or multiple sclerosis.
+used in the form of its hydrochloride salt to treat ovarian cancer, lung cancer and other cancer types.
+used to treat migraine headaches and cluster headaches.
+used by injection as a radio-opaque contrast agent that is used to outline structures in radiological investigations.
+used as a nasal spray to treat allergic rhinitis and as eye drops for allergic conjunctivitis.
+used to treat a number of bacterial infections.
+used for treatment of moderate to severe pain, and a common drug of abuse.
+used to treat hyponatremia associated with congestive heart failure, cirrhosis, and the syndrome of inappropriate antidiuretic hormone.
+used to manage angina, high blood pressure, Raynaud's phenomenon, and premature labor.
+used to treat a number of cancers.
+used to treat a number of types of cancer.
+used for the maintenance treatment of asthma.
+used to treat tuberculosis and prevent and treat Mycobacterium avium complex.
+used in the form of lapatinib ditosylate is an orally active drug for breast cancer and other solid tumours.
+used for the relief of various skin conditions, including rashes.
+used for the treatment of cognitive decline in mild to moderate Alzheimer's disease and various other memory impairments.
+used to treat type 2 diabetes.
+used to treat schizophrenia and bipolar disorder.
+used to treat RSV infection, hepatitis C and some viral hemorrhagic fevers.
+used primarily in the treatment of epilepsy and neuropathic pain.
+used to treat depression.
+used to treat some brain tumors such as glioblastoma multiforme or anaplastic astrocytoma.
+used to treat high blood cholesterol and certain other lipid abnormalities.
+used to treat amyotrophic lateral sclerosis.
+used in the treatment of atopic dermatitis.
+used after allogeneic organ transplant to lower the risk of organ rejection, and also as a topical medication in the treatment of T-cell-mediated diseases such as eczema and psoriasis.
+used by dermatophytes such as Trichophyton rubrum, Microsporum gypseum and Epidermophyton floccosum.
+used for the treatment of a variety of parasitic worm infestations.
+used in the treatment of pulmonary artery hypertension.
+used to treat HIV/AIDS.
+used by medication from the ACE inhibitor class.
+used primarily to treat prostate cancer.
+used to treat severe acne.
+used for the prevention of stroke, heart attack and other events in people with acute coronary syndrome, meaning problems with blood supply in the coronary arteries.
+used to treat HIV/AIDS.
+used for the treatment of hypertension and some types of congestive heart failure.
+used to treat Candida infections of the skin including diaper rash, thrush, esophageal candidiasis, and vaginal yeast infections.
+used to treat vitamin B12 deficiency.
+used mainly for chemotherapy.
+used to treat bladder infections, ear infections, and minor skin infections, but is not as effective for kidney infections.
+used to treat high blood pressure, symptoms of an enlarged prostate, and posttraumatic stress disorder.
+used to treat paracetamol overdose, and to loosen thick mucus in individuals with chronic bronchopulmonary disorders like pneumonia and bronchitis.
+used for treating erectile dysfunction that is sold under the trade names Levitra, Staxyn, and Vivanza.
+used in active moderate-to-severe rheumatoid arthritis and psoriatic arthritis.
+used to reduce the risk of heart disease and stroke in those at high risk.
+used for the management of severe diarrhea-predominant irritable bowel syndrome in women only.
+used topically as an anti-inflammatory agent for the treatment of skin disorders such as eczema and seborrhoeic dermatitis.
+used to treat myasthenia gravis.
+used to treat bladder infections, ear infections, and minor skin infections, but is not as effective for kidney infections.
+used in animals to prevent or control parasitic worms, such as heartworm and intestinal worms, in dogs, cats, horses, cattle and sheep.
+used to treat genital warts, superficial basal cell carcinoma, and actinic keratosis.
+used to help the symptoms of intermittent claudication in peripheral vascular disease.
+used to treat symptoms of an enlarged prostate and high blood pressure.
+used to treat depression.
+used to treat high blood pressure and heart-associated chest pain.
+used for anesthesia, procedural sedation, trouble sleeping, and severe agitation.
+used to reduce the risk of death due to Hutchinson-Gilford progeria syndrome and for the treatment of certain processing-deficient progeroid laminopathies in people one year of age and older.
+used to treat pain and inflammatory diseases such as gout.
+used to treat malaria.
+used to treat high blood pressure and heart failure.
