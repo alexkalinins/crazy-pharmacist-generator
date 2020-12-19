@@ -6,12 +6,12 @@ import re
 
 
 def unpickle():
-    with open('name-chain.pkl', 'rb') as f:
+    with open('python/name-chain.pkl', 'rb') as f:
         return pickle.load(f)
 
 
 def isVowel(char: str):
-    return char == 'a' or char == 'e' or char == 'o' or char == 'u' or char == 'i' or char == 'y' or char == ''
+    return char == 'a' or char == 'e' or char == 'o' or char == 'u' or char == 'i' or char == 'y' or char == '' or char == '.'
 
 
 def isConson(char: str):
@@ -53,17 +53,17 @@ def make_word(chain: dict):
 
 
 def good_word(word: str):
-    starts_with_two_vowels = re.match(r'^[aeouiy][aeouiy]', word)
-    if starts_with_two_vowels is not None: return False
+    # starts_with_two_vowels = re.match(r'^[aeouiy][aeouiy]', word)
+    # if starts_with_two_vowels is not None: return False
     
-    ends_with_same_letter = re.match(r'.*(.)\1$', word)
-    if ends_with_same_letter is not None: return False
+    # ends_with_same_letter = re.match(r'.*(.)\1$', word)
+    # if ends_with_same_letter is not None: return False
 
-    has_funky_letter = re.match(r'.*[qxzj]', word)
+    has_funky_letter = re.match(r'.*[qxzjr]', word)
     if has_funky_letter is None: return False
 
-    weird_vowel_sequence = re.match(r'(.)+.\1+', word)
-    if weird_vowel_sequence is not None: return False
+    # weird_vowel_sequence = re.match(r'(.)+.\1+', word)
+    # if weird_vowel_sequence is not None: return False
 
     return True
 
@@ -94,4 +94,4 @@ def generate(count: int, min_length: int, max_length: int):
 
 
 
-generate(10, 5, 10)
+generate(10, 6, 9)

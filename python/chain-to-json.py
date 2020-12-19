@@ -15,13 +15,13 @@ def unpickle(filename: str):
 # converts nested dictionary to json format string
 def make_json(nest) -> str:
     if isinstance(nest, set):
-        return '\'\''
+        return '\"\"'
     elif not isinstance(nest, dict):
-        return f'{nest}'
+        return f'\"{nest}\"'
     else:
         json = '{'
         for key in nest:
-            json = f'{json}\'{key}\':{make_json(nest[key])},'
+            json = f'{json}\"{key}\":{make_json(nest[key])},'
         return json[:-1] + '}'
 
 
@@ -40,5 +40,5 @@ def convert(filename: str):
     to_file(json, json_filename)
 
 
-convert('name-chain.pkl')
-convert('desc-chain.pkl')
+convert('python/name-chain.pkl')
+convert('python/desc-chain.pkl')

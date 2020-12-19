@@ -4,7 +4,7 @@ import random
 import pickle
 
 def unpickle():
-    with open('desc-chain.pkl', 'rb') as f:
+    with open('python/desc-chain.pkl', 'rb') as f:
         return pickle.load(f)
 
 def next_word(current:str, chain:dict):
@@ -14,7 +14,7 @@ def next_word(current:str, chain:dict):
         total_next_words = sum(chain[current].values())
         rand = random.random() * total_next_words
 
-        for word in chain[current]:
+        for word in random.sample(chain[current].keys(), len(chain[current])):
             #picks a random word based on probability of that word appearning next
             rand -= chain[current][word]
             if rand < 0:
