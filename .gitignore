@@ -3,4 +3,3 @@
 .eslint*
 .serverless
 node_modules
-serverless.yml
