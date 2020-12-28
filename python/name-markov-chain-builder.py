@@ -5,15 +5,12 @@ import pickle
 
 def build_chain(file_path: str):
     chain = {
-        '_chars': set(),
         '_first': {}
     }
 
     with open(file_path, 'r') as names:
         for name in names:
             word = name.strip() # stripping white space
-
-            chain['_chars'].update(word)  # adding chars to set of all chars
 
             word = word+'.' # period is end character
 

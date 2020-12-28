@@ -4,15 +4,11 @@ import pickle
 
 
 def build_chain(description_file_path: str):
-    chain = {
-        '_words': set()
-    } 
+    chain = {} 
 
     with open(description_file_path, 'r') as descriptions:
         for line in descriptions:
             words = line.strip().split() # spliting line into words
-
-            chain['_words'].update(words) # adding words to set of all words
 
             for ix in range(0, len(words)-1):
                 if words[ix] in chain:
