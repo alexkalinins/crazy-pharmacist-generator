@@ -17,13 +17,17 @@ paragraph of the article. Almost all articles have this sentence that
 describes the use of the drug.
 
 
+## Medium Article
+
+I wrote a Medium article about this project and Markov Chains more broadly. You can find it [here](https://towardsdatascience.com/generating-drug-names-with-a-markov-chain-49704dad8740). The article goes into greater detail on how the random walk of the Markov chain works (also the code is more up to date there). It's a great place to start if you want to follow along with the project.
+
 ## Webapp
 
 I wrote a webapp that uses this API in React. You can check it out [here](https://alexkalinins.github.io/crazy-pharmacist/). The source code is also on [GitHub](https://github.com/alexkalinins/crazy-pharmacist).
 
 ## Data
 
-Parsed data (both descriptions and drug names) are available in the `data` directory of the repo. For drug brand names, raw data was collected from the [NDC Database](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory). Description data was parsed from Wikipedia articles accessed with the Wikipedia API.
+Parsed data (both descriptions and drug names) are available in the `data` directory of the repo. For drug brand names, raw data was collected from the [NDC Database](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory). Description data was parsed from Wikipedia articles accessed with the Wikipedia API. Raw data (may be a bit out of date) is in `data/product.txt`. The parsed drug names are in `data/names.txt`; the descriptions are in `data/descriptions.txt`.
 
 
 ## Built With

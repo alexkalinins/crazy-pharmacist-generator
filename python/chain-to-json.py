@@ -1,10 +1,9 @@
-#! /usr/bin/python3
-
-# file for converting pickled models to json to be used later with javascript
-
 import pickle
 
-# unpicles
+
+# This script is for converting the Markov chain pickle files to json (for use with JavaScript)
+
+
 
 
 def unpickle(filename: str):
@@ -40,5 +39,5 @@ def convert(filename: str):
     to_file(json, json_filename)
 
 
-convert('python/name-chain.pkl')
-convert('python/desc-chain.pkl')
+convert('name-chain.pkl')
+convert('desc-chain.pkl')

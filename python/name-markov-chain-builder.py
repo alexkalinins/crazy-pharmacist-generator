@@ -2,10 +2,12 @@
 
 import pickle
 
+CHAIN = 'name-chain.pkl'
+
 
 def build_chain(file_path: str):
     chain = {
-        '_first': {}
+        '_start': {}
     }
 
     with open(file_path, 'r') as names:
@@ -15,13 +17,13 @@ def build_chain(file_path: str):
             word = word+'.' # period is end character
 
             # adding first character to first characters count
-            if word[0] in chain['_first']:
-                chain['_first'][word[0]] +=1
+            if word[0] in chain['_start']:
+                chain['_start'][word[0]] +=1
             else:
-                chain['_first'][word[0]]=1
+                chain['_start'][word[0]] = 1
 
 
-            for ix in range(1, len(word)-1):
+            for ix in range(len(word) - 1):
                 if word[ix] in chain:
                     # current word IS in chain
                     if word[ix+1] in chain[word[ix]]:
@@ -34,10 +36,10 @@ def build_chain(file_path: str):
                     # current word IS NOT in chain
                     chain[word[ix]] = {word[ix+1]: 1}
 
-    with open('name-chain.pkl', 'wb') as f:
+    with open(CHAIN, 'wb') as f:
         pickle.dump(chain, f, pickle.HIGHEST_PROTOCOL)
 
     return chain
 
 
-build_chain('names.txt')
+build_chain('../data/names.txt')

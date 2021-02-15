@@ -28,4 +28,4 @@ def build_chain(description_file_path: str):
 
     return chain
 
-build_chain('descriptions.txt')
+build_chain('../data/descriptions.txt')

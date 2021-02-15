@@ -1,17 +1,23 @@
-#!/usr/bin/python3
-
 import random
 import pickle
 import re
 
+CHAIN = 'name-chain.pkl'
 
 def unpickle():
-    with open('python/name-chain.pkl', 'rb') as f:
+    with open(CHAIN, 'rb') as f:
         return pickle.load(f)
 
 
 def isVowel(char: str):
-    return char == 'a' or char == 'e' or char == 'o' or char == 'u' or char == 'i' or char == 'y' or char == '' or char == '.'
+    return char == 'a' or \
+            char == 'e' or \
+            char == 'o' or \
+            char == 'u' or \
+            char == 'i' or \
+            char == 'y' or \
+            char == '' or \
+            char == '.'
 
 
 def isConson(char: str):
@@ -48,45 +54,22 @@ def pick_char(probs: dict):
 
 
 def make_word(chain: dict):
-    first_char = pick_char(chain['_first'])
+    first_char = pick_char(chain['_start'])
     return next_char('', first_char, chain)
 
 
-def good_word(word: str):
-    # starts_with_two_vowels = re.match(r'^[aeouiy][aeouiy]', word)
-    # if starts_with_two_vowels is not None: return False
-    
-    # ends_with_same_letter = re.match(r'.*(.)\1$', word)
-    # if ends_with_same_letter is not None: return False
-
+def is_spunky(word: str):
     has_funky_letter = re.match(r'.*[qxzjr]', word)
-    if has_funky_letter is None: return False
-
-    # weird_vowel_sequence = re.match(r'(.)+.\1+', word)
-    # if weird_vowel_sequence is not None: return False
-
-    return True
-
-
-
-def model_transform(chain: dict):
-    # transformation to apply
-    def transform(x): return x**2
-
-    for entry in chain:
-        if entry != '_chars':
-            for elem in chain[entry].keys():
-                val = chain[entry][elem]
-                chain[entry][elem] = transform(val)
+    return has_funky_letter is not None
 
 
 def generate(count: int, min_length: int, max_length: int):
     chain = unpickle()
-    # model_transform(chain)
+
     for i in range(count):
         word = make_word(chain)
 
-        while (len(word) < min_length or len(word) > max_length) or not good_word(word):
+        while (len(word) < min_length or len(word) > max_length) or not is_spunky(word):
             word = make_word(chain)
 
         print(word)
